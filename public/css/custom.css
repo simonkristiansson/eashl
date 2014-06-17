@@ -1,0 +1,56 @@
+.thread-top{
+	color: white;
+	background-color: #dd4814;	
+	font-size: 80%;
+}
+
+.post-top{
+	color: white;
+	background-color: #dd4814;
+	font-size: 70%;
+}
+
+.post-bottom{
+	font-size: 70%;
+	height:5px;
+}
+
+.post-user{
+	width:20%;
+	height: 100px;
+}
+
+.forum-btns{
+	margin-top: -15px;
+	margin-bottom: 5px;
+}
+
+.forum-btns > .btn{
+	margin-left: 5px;
+}
+.well.well-tournament {
+	padding: 0px;
+}
+.well-tournament > h1,
+.well-tournament > h2,
+.well-tournament > h3,
+.well-tournament > h4,
+.well-tournament > h5,
+.well-tournament > h6{
+	padding:10px;
+}
+.well-tournament > p{
+	padding: 10 0 0 5px;
+}
+
+.tournament-thumb {
+	width: 100%;
+	min-height:150px;
+	border-bottom:1px solid #999;
+}
+
+.tournament-thumb-small > img {
+	width: 100%;
+	min-height:100px;
+	border-bottom:1px solid #999;
+}
